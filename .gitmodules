@@ -1,0 +1,3 @@
+[submodule "module-test"]
+	path = module-test
+	url = https://github.com/v1guttal/module-test.git
